@@ -1,4 +1,4 @@
-package refactor.jogador;
+package refactor;
 
 public class Jogada {
 
