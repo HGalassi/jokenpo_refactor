@@ -2,7 +2,8 @@ package refactor;
 
 import org.junit.jupiter.api.Test;
 import refactor.jogada.Jogada;
-import refactor.resultado.CalculadoraDeResultados;
+import refactor.calculadora.CalculadoraDeResultados;
+import refactor.jogador.Jogador;
 
 import java.util.List;
 

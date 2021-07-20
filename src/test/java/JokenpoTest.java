@@ -1,5 +1,6 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import refactor.jogador.Jogada;
 
 import static com.googlecode.catchexception.apis.BDDCatchException.caughtException;
 import static com.googlecode.catchexception.apis.BDDCatchException.when;
@@ -88,7 +89,7 @@ public class JokenpoTest {
 
 //    @Test
 //    public void quando_Fogo_jogada1_papel_perde() throws Exception{
-//        Jogada jogada = new Jogada();
+//        refactor.jogador.Jogada jogada = new refactor.jogador.Jogada();
 //        jogada.setJogada1("fogo");
 //        jogada.setJogada2("papel");
 //        Assertions.assertTrue(jogada.getVencedor().equals("JOGADOR_1"));

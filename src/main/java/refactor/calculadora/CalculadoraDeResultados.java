@@ -1,9 +1,6 @@
-package refactor.resultado;
+package refactor.calculadora;
 
-import refactor.Jogador;
-import refactor.jogada.Papel;
-import refactor.jogada.Pedra;
-import refactor.jogada.Tesoura;
+import refactor.jogador.Jogador;
 
 import java.util.HashSet;
 import java.util.List;

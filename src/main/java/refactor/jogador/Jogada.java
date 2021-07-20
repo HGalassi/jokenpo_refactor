@@ -1,3 +1,5 @@
+package refactor.jogador;
+
 public class Jogada {
 
     private String jogada1;

@@ -1,4 +1,4 @@
-package refactor;
+package refactor.jogador;
 
 import refactor.jogada.Jogada;
 import refactor.resultado.Resultado;

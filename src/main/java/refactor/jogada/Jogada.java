@@ -26,6 +26,6 @@ public abstract class Jogada {
 
     @Override
     public String toString() {
-        return "Jogada=" + this.getInstancia();
+        return "refactor.jogador.Jogada=" + this.getInstancia();
     }
 }
