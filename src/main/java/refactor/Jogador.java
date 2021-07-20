@@ -28,10 +28,6 @@ public class Jogador {
         return resultado;
     }
 
-    public String getNickName(){
-        return nickName;
-    }
-
     @Override
     public String toString() {
         return "Jogador{" +
