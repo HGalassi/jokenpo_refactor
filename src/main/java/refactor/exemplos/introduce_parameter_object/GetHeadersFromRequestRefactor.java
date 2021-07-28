@@ -23,3 +23,4 @@ public class GetHeadersFromRequestRefactor {
     private void fazAlgumaCoisa(ImmutableMap<String, String> atributesFromContext) {
     }
 }
+
